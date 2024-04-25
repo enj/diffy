@@ -145,7 +145,7 @@
   background: none;
   padding: 0;
   word-wrap: normal;
-  white-space: pre;
+  white-space: pre-wrap;
 }
 
 .line-num1 {
